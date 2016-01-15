@@ -3,4 +3,4 @@ New ideas for a new age.
 This is the right second line.
 =======
 I can edit from here.
->>>>>>> c1527152f4cc57b0f1db3a74b01ac23db30974b3
+>>>>>>> c527152f4cc57b0f1db3a74b01ac23db30974b3
