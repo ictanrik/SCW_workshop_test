@@ -1,2 +1,4 @@
-bash-3.2$ nano firstfile.txt
+b$ash-3.2$ nano firstfile.txta
+
+hmmm.....
 
